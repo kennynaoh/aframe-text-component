@@ -1,5 +1,7 @@
 ## aframe-text-component
 
+[![CDNJS](https://img.shields.io/cdnjs/v/aframe-text-component.svg)](https://cdnjs.com/libraries/aframe-text-component)
+
 A text geometry component for [A-Frame](https://aframe.io) VR. The text geometry
 component (shape) can be paired with the [material component](https://aframe.io/docs/components/material.html) (appearance).
 
